@@ -8,3 +8,13 @@ option 2:download precomplied library and do manual configuration
 
 Let's work tomorrow.
 29-Nov-19 4:10AM
+
+-- setup for windows 10 --
+Manual installation of every package without visual c++
+install scapy and numpy+mkl
+install boost
+install dlib 
+install face_recognition
+https://github.com/ageitgey/face_recognition/issues/175
+
+windows is so horrible that I can't install dlib after lots of try. Can't understand what to do,may be try later
