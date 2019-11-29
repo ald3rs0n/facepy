@@ -1,0 +1,10 @@
+Installed dlib and face_recognition
+Installed Cmake for windows
+
+Ok, no python library is installed,windows is horribly siutable for my work...
+option 0:microsoft visual studio c++
+option 1:linux
+option 2:download precomplied library and do manual configuration
+
+Let's work tomorrow.
+29-Nov-19 4:10AM
