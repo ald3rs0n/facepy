@@ -1,3 +1,13 @@
+
+###############################################################################
+30-Nov-19
+Finally, I completed environment set up and face_recognitionis working now,but the slowest program ever.
+Need to start working on it.
+
+#issue : very slow
+
+###############################################################################
+
 Installed dlib and face_recognition
 Installed Cmake for windows
 
